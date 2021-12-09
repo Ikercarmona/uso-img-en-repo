@@ -1,3 +1,3 @@
 # uso-img-en-repo.
 
-<img src="resource/FOTONY.jpg" alt="cosas" width="50%>
+<img src="resources/FOTONY.jpg" alt="cosas" width="50%>
